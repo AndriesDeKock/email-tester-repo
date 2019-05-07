@@ -29,7 +29,7 @@ Public Class Form1
         Dim body_close As String = "</BODY>"
         Dim span_close As String = "</span>"
 
-        Dim strContent As String = "Good day <NAME><br/><br/>This is an email message.<br/><br/>"
+        Dim strContent As String = "Good day<br/><br/>This is an email message.<br/><br/>"
 
 
         Return strContent
