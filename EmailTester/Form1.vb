@@ -80,7 +80,7 @@ Public Class Form1
                 End If
 
                 smtpmail.EnableSsl = blSSL
-                smtpmail.Port = 9925
+                smtpmail.Port = 587
 
 
                 Debug.WriteLine(String.Format("SSL Enabled: {0}, Port: {1}", blSSL.ToString(), smtpmail.Port.ToString()))
