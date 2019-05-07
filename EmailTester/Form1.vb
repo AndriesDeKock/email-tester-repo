@@ -15,6 +15,7 @@ Public Class Form1
         lblStatus.Text = "Sending email..."
         Application.DoEvents()
 
+
         Dim strResults As String = f_sendAutoEmailstr(txtTo.Text, txtFrom.Text, "",
                                                       "Immploy Tax Invoice", _RetrieveEmailBody(), "", txtSMTP.Text,
                                                       txtSMTPuser.Text, txtSMTPPass.Text, chkSSL.Checked, txtDomain.Text)

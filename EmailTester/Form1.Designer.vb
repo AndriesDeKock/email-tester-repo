@@ -55,7 +55,6 @@ Partial Class Form1
         Me.txtFrom.Name = "txtFrom"
         Me.txtFrom.Size = New System.Drawing.Size(184, 20)
         Me.txtFrom.TabIndex = 1
-        Me.txtFrom.Text = "invoices@immploy.com"
         '
         'txtTo
         '
@@ -63,7 +62,6 @@ Partial Class Form1
         Me.txtTo.Name = "txtTo"
         Me.txtTo.Size = New System.Drawing.Size(184, 20)
         Me.txtTo.TabIndex = 3
-        Me.txtTo.Text = "andries.de@gmail.com"
         '
         'Label2
         '
@@ -80,7 +78,6 @@ Partial Class Form1
         Me.txtSMTP.Name = "txtSMTP"
         Me.txtSMTP.Size = New System.Drawing.Size(184, 20)
         Me.txtSMTP.TabIndex = 5
-        Me.txtSMTP.Text = "remote.immploy.biz"
         '
         'Label3
         '
@@ -97,7 +94,6 @@ Partial Class Form1
         Me.txtSMTPuser.Name = "txtSMTPuser"
         Me.txtSMTPuser.Size = New System.Drawing.Size(184, 20)
         Me.txtSMTPuser.TabIndex = 7
-        Me.txtSMTPuser.Text = "invoices"
         '
         'Label4
         '
@@ -114,7 +110,6 @@ Partial Class Form1
         Me.txtSMTPPass.Name = "txtSMTPPass"
         Me.txtSMTPPass.Size = New System.Drawing.Size(184, 20)
         Me.txtSMTPPass.TabIndex = 9
-        Me.txtSMTPPass.Text = "&wBxhC^Q6w-4#zhP"
         '
         'Label5
         '
@@ -167,7 +162,6 @@ Partial Class Form1
         Me.txtDomain.Name = "txtDomain"
         Me.txtDomain.Size = New System.Drawing.Size(184, 20)
         Me.txtDomain.TabIndex = 15
-        Me.txtDomain.Text = "IMMPLOY"
         '
         'Label7
         '
